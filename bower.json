@@ -1,0 +1,17 @@
+{
+  "name": "updateD3",
+  "description": "Update D3",
+  "main": "app.js",
+  "keywords": [
+    "d3"
+  ],
+  "authors": [
+    "giuse.scara@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "d3": "latest",
+    "requirejs":"latest"
+  }
+}
